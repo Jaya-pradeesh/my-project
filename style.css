@@ -1,0 +1,72 @@
+body{
+    
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    margin: 0;
+    overflow: hidden;
+    
+    
+
+}
+nav{
+    align-content: space-around;
+    display: block;
+    height: 50px;
+    
+    background-color:  black;
+    margin: 0;
+    border: 0;
+   
+    opacity: 0.9;
+}
+a{
+    padding: 15px;
+   
+    
+    text-decoration: none; 
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#navdiv{
+    margin-left: 70%;
+    
+}
+#contentindex{
+    display: flex;
+    width: 100%;
+    height: 101vh;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+    overflow: hidden;
+   
+   
+    display: inline-block;
+    padding: 30px;
+}
+#innerdiv{
+    font-size: xx-large;
+    width: 600px;
+    height: auto;
+    padding: 40px;
+    display: inline-block;
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+    
+    
+}
+#hello{
+    font-size: x-large;
+    
+}
+#h3{
+    font-size: small;
+}
